@@ -1,0 +1,41 @@
+*{
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* navbar */
+
+.navbar-default{
+	background:transparent;
+	background-image:none;
+	border-color:transparent;
+	margin: 10px 50px;
+}
+
+.navbar-default .navbar-nav li a {
+    color: white;
+}
+
+/* header */
+header{
+	background-image: url('../img/bg-header.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	text-align: center;
+}
+
+header img{
+	margin-top: 200px;
+}
+
+.fa-chevron-down{
+	color: #fff;
+	font-size: 16px;
+	margin-top: 120px;
+	border: 2px solid #fff;
+	padding: 20px; 
+	border-radius: 100%;
+}
