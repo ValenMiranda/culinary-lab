@@ -14,8 +14,26 @@
 	margin: 10px 50px;
 }
 
+.logo{
+	padding: 0;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
 .navbar-default .navbar-nav li a {
     color: white;
+}
+
+.cambiaNav{
+    background-color: #4C4C4C;
+}
+
+.cambiaNav a{
+    color: white;
+}
+
+.cambiaNav a:hover{
+    color: #8E8E8E; /*gris*/
 }
 
 /* header */
@@ -39,3 +57,60 @@ header img{
 	padding: 20px; 
 	border-radius: 100%;
 }
+
+/* section our value*/
+.values{
+	padding: 100px 0;
+}
+
+.top h2{
+	font-size: 50px;
+	font-weight: 800;
+	margin: 0;
+}
+
+.top h4{
+	font-size: 30px;
+	font-weight: 800;
+	margin: 0;
+}
+
+.icon{
+	font-size: 30px;
+	border-radius: 100%;
+    border: 3px solid black;
+    padding: 15px 0;
+    width: 80px;
+    height: 80px;
+}
+
+.values-info-section{
+	margin-top: 20px;
+}
+
+.values{
+	padding: 0 20px;
+}
+
+.values ul li{
+	text-align: left;
+	line-height: 40px;
+	font-weight: 300;
+	margin-left: 20px;
+	font-style: italic;
+}
+
+.lines{
+	padding: 15px 0px;
+}
+
+.first-line,
+.second-line{
+	border-bottom: 1px solid ##BCA573;
+	width: 150px;
+}
+
+.second-line{
+	margin-top: 3px;
+}
+
