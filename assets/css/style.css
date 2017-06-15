@@ -65,13 +65,13 @@ header img{
 
 /* section our values*/
 
-.val h1{
+.title-values{
 	font-size: 50px;
 	font-weight: 800;
 	margin-top: 50px;
 }
 
-.val h4{
+.title-info{
 	font-size: 25px;
 	font-weight: 800;
 	margin-right: -10px;
@@ -151,3 +151,5 @@ header img{
 	font-weight: bold;
 	color: #8E8E8E;
 }
+
+/* Section people */
